@@ -68,4 +68,4 @@ If you would like to support the development of this project, you can make a don
 
 ## License
 
-**EVM Auto Deploy** is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+**Delta Neutral Trading Bot** is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
